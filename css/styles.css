@@ -605,7 +605,7 @@ progress {
 }
 
 .img-event {
-  max-width: 500px;
+  max-width: 100%;
   height: auto;
   margin: 2em;
 }
