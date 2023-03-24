@@ -11902,3 +11902,7 @@ header.masthea .masthead-heading {
     margin-bottom: 4rem;
   }
 }
+
+btn {
+  display: inline-block !important;
+}
