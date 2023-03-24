@@ -11845,7 +11845,10 @@ header.mastheab .masthead-heading {
   }
   header.mastheab .masthead-heading {
     font-size: 4.5rem;
+    overflow-wrap: break-word;
     font-weight: 700;
+    max-width: 100%;
+    height: auto;
     line-height: 4.5rem;
     margin-bottom: 4rem;
   }
@@ -11891,7 +11894,10 @@ header.masthea .masthead-heading {
   }
   header.masthea .masthead-heading {
     font-size: 4.5rem;
+    overflow-wrap: break-word;
     font-weight: 700;
+    max-width: 100%;
+    height: auto;
     line-height: 4.5rem;
     margin-bottom: 4rem;
   }
